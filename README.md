@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://bleachjade.github.io/
-[instagram]: https://instagram.com/jadenttp
-[e-mail]: mailto:%20nattapol.boo@ku.th
 <!--
 **KOngTNP/KOngTNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
