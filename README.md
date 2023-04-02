@@ -10,7 +10,7 @@ I am a Full-Stack developer with an experience in developing web applications, d
   <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=kongtnp&hide=stars&include_all_commits=true&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="26.5%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongtnp&langs_count=8&layout=compact&theme=buefy" />
+  <img align="center" width="30%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongtnp&langs_count=8&layout=compact&theme=buefy" />
 </a>
 
 
