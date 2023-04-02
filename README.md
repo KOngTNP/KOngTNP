@@ -1,12 +1,16 @@
 ### Hi there 👋
-### My name is Kong. I am a Software Engineering student at Kasetsart University.
-
+## My name is Kong. 
+I am a Full-Stack developer with an experience in developing web applications, designing interfaces, manage database and machine leaning. I am able to work under pressure, quick learn also master new technologies.
+- 🎓 Graduate form: Kasetsart University
+- 👨‍💻 Faculty: Software and Knowledge Engineering
+- 📫 Email: Tanapollll23@gmail.com
+- 🌐 Website: https://kong-port.vercel.app/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=kongtnp&hide=stars&include_all_commits=true&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongtnp&langs_count=8&layout=compact&theme=buefy" />
+  <img align="center" width="26.5%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongtnp&langs_count=8&layout=compact&theme=buefy" />
 </a>
 
 
