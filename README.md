@@ -6,11 +6,11 @@ I am a Full-Stack developer with an experience in developing web applications, d
 - 📫 Email: Tanapollll23@gmail.com
 - 🌐 Website: https://kong-port.vercel.app/
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=kongtnp&hide=stars&include_all_commits=true&show_icons=true&theme=buefy" />
-</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongtnp&langs_count=8&layout=compact&theme=buefy" />
+  <img align="center" width="30%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongtnp&langs_count=8&layout=compact&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=kongtnp&hide=stars&include_all_commits=true&show_icons=true&theme=buefy" />
 </a>
 
 
